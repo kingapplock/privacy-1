@@ -1,2 +1,1 @@
-# privacy
-Privacy policy
+# Privacy Policy
